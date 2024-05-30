@@ -7,9 +7,14 @@
 
 ## 🛠 Technologies I work with:
 
-- **Languages:** HTML <img src="![html](https://github.com/ejmoore99/ejmoore99/assets/155325780/8e104535-c9f1-4064-abfc-e2db28158265)" width="20"/>, CSS <img src="![css](https://github.com/ejmoore99/ejmoore99/assets/155325780/bf078cea-544c-40f2-aca6-dc959b1a8a9e)" width="20"/>, JavaScript <img src="![js](https://github.com/ejmoore99/ejmoore99/assets/155325780/8b89aa9b-7807-43b8-acf8-5c8ca7c14e65)" width="20"/>, Python <img src="![python](https://github.com/ejmoore99/ejmoore99/assets/155325780/42e8b33c-c567-46db-8913-9f9377414eff)" width="20"/>, SQL <img src="![python](https://github.com/ejmoore99/ejmoore99/assets/155325780/9d6a7e63-36b0-47a4-8140-ca6749abe797)" width="20"/>
+- **Languages:** ![html](https://github.com/ejmoore99/ejmoore99/assets/155325780/8e104535-c9f1-4064-abfc-e2db28158265) HTML, 
+![css](https://github.com/ejmoore99/ejmoore99/assets/155325780/bf078cea-544c-40f2-aca6-dc959b1a8a9e) CSS, 
+![js](https://github.com/ejmoore99/ejmoore99/assets/155325780/8b89aa9b-7807-43b8-acf8-5c8ca7c14e65) JavaScript, 
+![python](https://github.com/ejmoore99/ejmoore99/assets/155325780/42e8b33c-c567-46db-8913-9f9377414eff) Python, 
+![sql](https://github.com/ejmoore99/ejmoore99/assets/155325780/9d6a7e63-36b0-47a4-8140-ca6749abe797) SQL
 
-- **Frameworks and Libraries:** React <img src="![react](https://github.com/ejmoore99/ejmoore99/assets/155325780/748594bd-4c88-4c7d-8e8f-0eddd66f70f7)" width="20"/>, Node.js <img src="![node](https://github.com/ejmoore99/ejmoore99/assets/155325780/d1149f9b-fd8b-47b0-a681-ad2d74e79ab8)" width="20"/>
+- **Frameworks and Libraries:** ![react](https://github.com/ejmoore99/ejmoore99/assets/155325780/748594bd-4c88-4c7d-8e8f-0eddd66f70f7) React, 
+![node](https://github.com/ejmoore99/ejmoore99/assets/155325780/d1149f9b-fd8b-47b0-a681-ad2d74e79ab8) Node.js
 
 
 ## 🌟 Projects
