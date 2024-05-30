@@ -1,7 +1,7 @@
 ![matrix-header](https://github.com/ejmoore99/ejmoore99/assets/155325780/d3acaae1-bc14-4b88-9866-ab5648e51fbb)
 
 
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Ervin Moore 👋
 
 ⚡I am a student at Wake Tech Community College, majoring in Computer Science with a focus on Web Development and Software Engineering.
 
@@ -44,8 +44,6 @@ A fun app that generates random fortunes, built with HTML, CSS, and JavaScript.
 - <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/ios-filled/50/000000/email-sign.png" alt="Email Icon" width="20"/> **Email:** ervinworks703@outlook.com</a>
 - <a href="https://www.linkedin.com/in/yourusername"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn Icon" width="20"/> **LinkedIn:**  www.linkedin.com/in/ervinmoore</a>
 - <a href="https://github.com/yourusername"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Icon" width="20"/>**GitHub:**  www.github.com/ejmoore99</a>
-
-![matrix-header](https://github.com/ejmoore99/ejmoore99/assets/155325780/d3acaae1-bc14-4b88-9866-ab5648e51fbb)
 
 <!---
 ejmoore99/ejmoore99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
