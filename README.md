@@ -1,4 +1,4 @@
-![Header Image](![matrix-header](https://github.com/ejmoore99/ejmoore99/assets/155325780/d3acaae1-bc14-4b88-9866-ab5648e51fbb)
+(![matrix-header](https://github.com/ejmoore99/ejmoore99/assets/155325780/d3acaae1-bc14-4b88-9866-ab5648e51fbb)
 
 
 # Hello, I'm [Your Name] 👋
@@ -30,14 +30,7 @@ A fun app that generates random fortunes, built with HTML, CSS, and JavaScript.
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
 - **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
 
-![Footer Image](![matrix-header](https://github.com/ejmoore99/ejmoore99/assets/155325780/d3acaae1-bc14-4b88-9866-ab5648e51fbb)
-
-- 👋 Hi, I’m Ervin Moore
-- 👀 I’m interested in Front-end and Back-end Web Development
-- 🌱 I’m currently learning Computer Science and Information at Wake Tech
-- 💞️ I’m looking to collaborate on projects to add to my portfolio
-- 📫 How to reach me www.linkedin.com/in/ervin-moore
--  Fun fact: ...
+(![matrix-header](https://github.com/ejmoore99/ejmoore99/assets/155325780/d3acaae1-bc14-4b88-9866-ab5648e51fbb)
 
 <!---
 ejmoore99/ejmoore99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
