@@ -28,11 +28,11 @@ Copy code
 ## 🌟 Projects
 
 ### [Project 1: Real Estate App](https://github.com/yourusername/real-estate-app)
-A web application for managing real estate listings, built with React and Material-UI. <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/8e104535-c9f1-4064-abfc-e2db28158265" alt="html" width="20"/> HTML,  <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/bf078cea-544c-40f2-aca6-dc959b1a8a9e" alt="css" width="20"/> CSS,  <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/8b89aa9b-7807-43b8-acf8-5c8ca7c14e65" alt="js" width="20"/> JavaScript, <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/748594bd-4c88-4c7d-8e8f-0eddd66f70f7" alt="react" width="20"/> React, 
+A web application for managing real estate listings, built with React and Material-UI. <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/8e104535-c9f1-4064-abfc-e2db28158265" alt="html" width="20"/> <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/bf078cea-544c-40f2-aca6-dc959b1a8a9e" alt="css" width="20"/> <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/8b89aa9b-7807-43b8-acf8-5c8ca7c14e65" alt="js" width="20"/> <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/748594bd-4c88-4c7d-8e8f-0eddd66f70f7" alt="react" width="20"/>
 
 
 ### [Project 3: Fortune Cookiez]([https://github.com/yourusername/fortune-cookiez](https://github.com/ejmoore99/fortune-cookie))
-A fun app that generates random fortunes, built with HTML, CSS, and JavaScript. <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/8e104535-c9f1-4064-abfc-e2db28158265" alt="html" width="20"/> HTML,  <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/bf078cea-544c-40f2-aca6-dc959b1a8a9e" alt="css" width="20"/> CSS,  <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/8b89aa9b-7807-43b8-acf8-5c8ca7c14e65" alt="js" width="20"/> JavaScript,
+A fun app that generates random fortunes, built with HTML, CSS, and JavaScript. <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/8e104535-c9f1-4064-abfc-e2db28158265" alt="html" width="20"/> <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/bf078cea-544c-40f2-aca6-dc959b1a8a9e" alt="css" width="20"/> <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/8b89aa9b-7807-43b8-acf8-5c8ca7c14e65" alt="js" width="20"/>
 
 ### [Project 3: TBA!
 COMING SOON!
