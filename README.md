@@ -45,7 +45,7 @@ A fun app that generates random fortunes, built with HTML, CSS, and JavaScript.
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
 - **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
 
-(![matrix-header](https://github.com/ejmoore99/ejmoore99/assets/155325780/d3acaae1-bc14-4b88-9866-ab5648e51fbb)
+![matrix-header](https://github.com/ejmoore99/ejmoore99/assets/155325780/d3acaae1-bc14-4b88-9866-ab5648e51fbb)
 
 <!---
 ejmoore99/ejmoore99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
