@@ -1,4 +1,4 @@
-(![matrix-header](https://github.com/ejmoore99/ejmoore99/assets/155325780/d3acaae1-bc14-4b88-9866-ab5648e51fbb)
+![matrix-header](https://github.com/ejmoore99/ejmoore99/assets/155325780/d3acaae1-bc14-4b88-9866-ab5648e51fbb)
 
 
 # Hello, I'm [Your Name] 👋
@@ -41,9 +41,9 @@ A fun app that generates random fortunes, built with HTML, CSS, and JavaScript.
 
 ## 📫 Contact Me
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+- **Email:** <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/ios-filled/50/000000/email-sign.png" alt="Email Icon" width="20"/> your.email@example.com</a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/yourusername"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn Icon" width="20"/> Your LinkedIn Profile</a>
+- **GitHub:** <a href="https://github.com/yourusername"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Icon" width="20"/> Your GitHub Profile</a>
 
 ![matrix-header](https://github.com/ejmoore99/ejmoore99/assets/155325780/d3acaae1-bc14-4b88-9866-ab5648e51fbb)
 
