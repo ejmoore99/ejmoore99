@@ -5,6 +5,12 @@
 
 ⚡I am a student at Wake Tech Community College, majoring in Computer Science with a focus on Web Development and Software Engineering.
 
+## 📫 Contact Me
+
+- <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/ios-filled/50/000000/email-sign.png" alt="Email Icon" width="20"/> **Email:** ervinworks703@outlook.com</a>
+- <a href="https://www.linkedin.com/in/yourusername"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn Icon" width="20"/> **LinkedIn:**  www.linkedin.com/in/ervinmoore</a>
+- <a href="https://github.com/yourusername"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Icon" width="20"/>**GitHub:**  www.github.com/ejmoore99</a>
+
 ## 🛠 Technologies I work with:
 
 
@@ -44,11 +50,7 @@ A fun app that generates random fortunes, built with HTML, CSS, and JavaScript.
 ### [Project 3: TBA!
 COMING SOON!
 
-## 📫 Contact Me
 
-- <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/ios-filled/50/000000/email-sign.png" alt="Email Icon" width="20"/> **Email:** ervinworks703@outlook.com</a>
-- <a href="https://www.linkedin.com/in/yourusername"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn Icon" width="20"/> **LinkedIn:**  www.linkedin.com/in/ervinmoore</a>
-- <a href="https://github.com/yourusername"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Icon" width="20"/>**GitHub:**  www.github.com/ejmoore99</a>
 
 <!---
 ejmoore99/ejmoore99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
