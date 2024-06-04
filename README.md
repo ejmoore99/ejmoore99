@@ -19,11 +19,11 @@ To make the images display as icons, you can use HTML to specify the width of th
 markdown
 Copy code
 - **Languages:** 
-  <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/8e104535-c9f1-4064-abfc-e2db28158265" alt="html" width="20"/> HTML
-  <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/bf078cea-544c-40f2-aca6-dc959b1a8a9e" alt="css" width="20"/> CSS
-  <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/8b89aa9b-7807-43b8-acf8-5c8ca7c14e65" alt="js" width="20"/> JavaScript
-  <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/42e8b33c-c567-46db-8913-9f9377414eff" alt="python" width="20"/> Python
-  <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/c8786e81-d2cf-46ec-ab02-3e8e918ec595" alt="sql" width="20"/> SQL
+  <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/8e104535-c9f1-4064-abfc-e2db28158265" alt="html" width="20"/>
+  <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/bf078cea-544c-40f2-aca6-dc959b1a8a9e" alt="css" width="20"/>
+  <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/8b89aa9b-7807-43b8-acf8-5c8ca7c14e65" alt="js" width="20"/>
+  <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/42e8b33c-c567-46db-8913-9f9377414eff" alt="python" width="20"/>
+  <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/c8786e81-d2cf-46ec-ab02-3e8e918ec595" alt="sql" width="20"/>
 
 
 - **Frameworks and Libraries:** 
