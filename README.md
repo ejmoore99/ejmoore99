@@ -8,8 +8,8 @@
 ## 📫 Contact Me
 
 - <a href="mailto:ervinworks703@outlook.com"><img src="https://img.icons8.com/ios-filled/50/000000/email-sign.png" alt="Email Icon" width="20"/> **Email:** ervinworks703@outlook.com</a>
-- <a href="www.linkedin.com/in/ervin-moore"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn Icon" width="20"/> **LinkedIn:**  www.linkedin.com/in/ervin-moore</a>
-- <a href="www.github.com/ejmoore99"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Icon" width="20"/>**GitHub:**  www.github.com/ejmoore99</a>
+- <a href="https:/linkedin.com/in/ervin-moore"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn Icon" width="20"/> **LinkedIn:**  www.linkedin.com/in/ervin-moore</a>
+- <a href="https:/github.com/ejmoore99"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Icon" width="20"/>**GitHub:**  www.github.com/ejmoore99</a>
 
 ## 🛠 Technologies I work with:
 
