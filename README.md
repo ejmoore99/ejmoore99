@@ -33,18 +33,18 @@ Copy code
 
 ## 🌟 Projects
 
-### [Project 1: Fortune Cookiez]([https://github.com/yourusername/fortune-cookiez](https://github.com/ejmoore99/fortune-cookie))
+### [Project 1: Fortune Cookiez](https://github.com/ejmoore99/fortune-cookie)
 A fun app that generates random fortunes, built with HTML, CSS, and JavaScript. 
 <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/8e104535-c9f1-4064-abfc-e2db28158265" alt="html" width="20"/> 
 <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/bf078cea-544c-40f2-aca6-dc959b1a8a9e" alt="css" width="20"/> 
 <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/8b89aa9b-7807-43b8-acf8-5c8ca7c14e65" alt="js" width="20"/>
 
 
-### [Project 2: Tubes2Tunes
+### [Project 2: Tubes2Tunes](https://github.com/ejmoore99/tube2tune)
 A python app with an GUI that converts Youtube videos into a high quality mp3 file.
 <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/42e8b33c-c567-46db-8913-9f9377414eff" alt="python" width="20"/>
 
-### [Project 3: Real Estate App](https://github.com/yourusername/real-estate-app)
+### [Project 3: Real Estate App](https://github.com/ejmoore99/abm-real-est)
 A web application for managing real estate listings, built with React and Material-UI. 
 <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/8e104535-c9f1-4064-abfc-e2db28158265" alt="html" width="20"/> 
 <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/bf078cea-544c-40f2-aca6-dc959b1a8a9e" alt="css" width="20"/> 
