@@ -5,7 +5,7 @@
 
 ⚡I am a student at Wake Tech Community College, majoring in Computer Science with a focus on Web Development and Software Engineering.
 </br>
-- <a href="https://ervinmoore.netlify.app/">**Portfolio:** </a>
+- <a href="https://ervinmoore.netlify.app/">**Portfolio** </a>
 
 ## 📫 Contact Me
 
