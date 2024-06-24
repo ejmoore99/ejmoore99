@@ -18,8 +18,6 @@
 
 To make the images display as icons, you can use HTML to specify the width of the images. Here’s how you can do it:
 
-markdown
-Copy code
 - **Languages:** 
   <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/8e104535-c9f1-4064-abfc-e2db28158265" alt="html" width="20"/>
   <img src="https://github.com/ejmoore99/ejmoore99/assets/155325780/bf078cea-544c-40f2-aca6-dc959b1a8a9e" alt="css" width="20"/>
